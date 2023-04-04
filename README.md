@@ -28,4 +28,7 @@ I study at the Home university as Software Engineer
 ---
 [![](https://visitcount.itsvg.in/api?id=Alaa-jk&icon=2&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Alaa-jk&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+
 
